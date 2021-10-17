@@ -1,0 +1,178 @@
+2021-10-17 00:00:01.346  INFO 14720 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:56993 -- CloseStatus[code=1006, reason=]
+2021-10-17 00:00:01.354  INFO 14720 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-10-17 00:00:04.400  INFO 14720 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:57002
+2021-10-17 00:00:04.406  INFO 14720 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-10-17 00:04:23.243  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:rapaziadinha do tiktok"
+2021-10-17 00:04:24.006  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: rapaziadinha do tiktok
+2021-10-17 00:04:24.071  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"852588889700696145","volume":100}
+2021-10-17 00:04:24.153  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA4gIATVJBUEFaSUFESU5IQSBUSUtUT0sgLSBUQ1AgLSAxMzBCUE0gLSBNQyBCcnVueW4gZG8gQmFuY28gKERKIFl1cmkgZGEgRXNjw7NjaWEpAAhSTCBHYW1lcwAAAAAAAffoAAtUTFY5bUdZRlhuTQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVRMVjltR1lGWG5NAQAwaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9UTFY5bUdZRlhuTS9zZGRlZmF1bHQuanBnAAd5b3V0dWJlAAAAAAAAAAA="}
+2021-10-17 00:04:24.743  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"8f75f0d0c733f0fe4027e3d1594a1a80","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"8747845e4a5fddf4","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:06:33.073  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"destroy","guildId":"852588889700696145"}
+2021-10-17 00:11:46.817  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:é que hoje vai ter festinha"
+2021-10-17 00:11:47.699  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: é que hoje vai ter festinha
+2021-10-17 00:11:47.788  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"852588889700696145","volume":100}
+2021-10-17 00:11:47.790  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA8gIAWEUgUVVFIEhPSkUgVkFJIFRFUiBGRVNUSU5IQSBBUVVJIERFTlRSTyBETyBNRVUgQkFSUkFDTyAgLSBUSUsgVE9LIC8vR1JBVkUgKEJBU1MtQk9PU1RFRCkAE01lZ2FCYXRpZGFvIE9maWNpYWwAAAAAAAP7iAALZWZQYjZDb1dBQkEAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1lZlBiNkNvV0FCQQEAKmh0dHBzOi8vaS55dGltZy5jb20vdmkvZWZQYjZDb1dBQkEvaHEyLmpwZwAHeW91dHViZQAAAAAAAAAA"}
+2021-10-17 00:11:48.403  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"8f75f0d0c733f0fe4027e3d1594a1a80","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"a2b022f4bc069a20","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:13:02.398  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:57002 -- CloseStatus[code=1006, reason=]
+2021-10-17 00:13:02.399  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 1 playing players.
+2021-10-17 00:13:04.482  INFO 14720 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:64406
+2021-10-17 00:13:04.486  INFO 14720 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-10-17 00:13:19.119  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:10segundos"
+2021-10-17 00:13:19.913  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 10segundos
+2021-10-17 00:13:19.978  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"852588889700696145","volume":100}
+2021-10-17 00:13:19.979  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA2wIAIkNvbnRhZ2VtIHJlZ3Jlc3NpdmEgZGUgMTAgc2VndW5kb3MALEVsZXZhIEJyYXNpbCBDcmlhw6fDo28gZSBIb3NwZWRhZ2VtIGRlIFNpdGVzAAAAAAAARlAAC09zRTFTNEplREFrAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9T3NFMVM0SmVEQWsBADBodHRwczovL2kueXRpbWcuY29tL3ZpL09zRTFTNEplREFrL3NkZGVmYXVsdC5qcGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2021-10-17 00:13:20.592  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"dc4942aea6897e1673bda016399ea60a","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"a2b022f4bc069a20","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:13:38.535  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"destroy","guildId":"852588889700696145"}
+2021-10-17 00:15:39.961  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:64406 -- CloseStatus[code=1006, reason=]
+2021-10-17 00:15:39.962  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-10-17 00:15:43.033  INFO 14720 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:65489
+2021-10-17 00:15:43.039  INFO 14720 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-10-17 00:15:55.368  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Contagem regressiva de 10 segundos"
+2021-10-17 00:15:56.221  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Contagem regressiva de 10 segundos
+2021-10-17 00:15:56.281  INFO 14720 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"852588889700696145","volume":100}
+2021-10-17 00:15:56.282  INFO 14720 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA2wIAIkNvbnRhZ2VtIHJlZ3Jlc3NpdmEgZGUgMTAgc2VndW5kb3MALEVsZXZhIEJyYXNpbCBDcmlhw6fDo28gZSBIb3NwZWRhZ2VtIGRlIFNpdGVzAAAAAAAARlAAC09zRTFTNEplREFrAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9T3NFMVM0SmVEQWsBADBodHRwczovL2kueXRpbWcuY29tL3ZpL09zRTFTNEplREFrL3NkZGVmYXVsdC5qcGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2021-10-17 00:15:56.909  INFO 14720 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"3df1095ad86b12e76ae27711d95a0872","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"99a8055d18c708d5","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:16:14.973  INFO 14720 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"destroy","guildId":"852588889700696145"}
+2021-10-17 00:16:15.011  INFO 14720 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:65489 -- CloseStatus[code=1006, reason=]
+2021-10-17 00:16:15.012  INFO 14720 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-10-17 00:18:33.852  INFO 14720 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55538
+2021-10-17 00:18:33.858  INFO 14720 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-10-17 00:18:53.716  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:pivete cv"
+2021-10-17 00:18:54.480  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: pivete cv
+2021-10-17 00:18:54.575  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"852588889700696145","volume":100}
+2021-10-17 00:18:54.576  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA9QIAVjEwIE1JTlVUT1MgREUgQSBBTE1BIEUgQ0FORE9aQSBBR09SQSDDiSBDViwgTEFDUkFETyBOTyBWRVJNRUxITyDimaogWyBQSVZFVEUgQ1YgXSAySzIwABhQSVZFVEUgQ1YgLSBPIFJFVE9STk8gz58AAAAAAAk3YAALX2hJU1YtcWR5SzgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1faElTVi1xZHlLOAEAKmh0dHBzOi8vaS55dGltZy5jb20vdmkvX2hJU1YtcWR5SzgvaHEyLmpwZwAHeW91dHViZQAAAAAAAAAA"}
+2021-10-17 00:18:55.193  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"70c188e18db930c1036a5ef98fe109f8","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:19:29.289  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:10 segundos"
+2021-10-17 00:19:30.034  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 10 segundos
+2021-10-17 00:19:34.198  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"852588889700696145"}
+2021-10-17 00:19:34.203  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA+wIAYlZpY3RvciAmIExlbyAtIDEwIG1pbnV0b3MgbG9uZ2UgZGUgdm9jw6ogcGFydC4gSGVucmlxdWUgJiBKdWxpYW5vIC0gKFbDrWRlbyBPZmljaWFsKSBbRFZEIElybcOjb3NdAAxWaWN0b3IgZSBMZW8AAAAAAAOV+AALLWdmNHpvSkJISjAAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0tZ2Y0em9KQkhKMAEAMGh0dHBzOi8vaS55dGltZy5jb20vdmkvLWdmNHpvSkJISjAvc2RkZWZhdWx0LmpwZwAHeW91dHViZQAAAAAAAAAA"}
+2021-10-17 00:20:07.741  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"852588889700696145","pause":true}
+2021-10-17 00:20:07.742  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"70c188e18db930c1036a5ef98fe109f8","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:20:08.234  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"70c188e18db930c1036a5ef98fe109f8","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil10008.discord.media:443"}}
+2021-10-17 00:20:11.443  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"70c188e18db930c1036a5ef98fe109f8","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil10008.discord.media:443"}}
+2021-10-17 00:20:11.593  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"70c188e18db930c1036a5ef98fe109f8","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:20:44.751  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"852588889700696145","pause":false}
+2021-10-17 00:20:55.101  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"852588889700696145","pause":true}
+2021-10-17 00:20:55.103  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"70c188e18db930c1036a5ef98fe109f8","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:20:55.225  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"70c188e18db930c1036a5ef98fe109f8","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil1363.discord.media:443"}}
+2021-10-17 00:20:59.413  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"70c188e18db930c1036a5ef98fe109f8","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil1363.discord.media:443"}}
+2021-10-17 00:20:59.532  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"70c188e18db930c1036a5ef98fe109f8","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:21:04.188  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"852588889700696145","pause":false}
+2021-10-17 00:21:11.953  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:pivete cv set proibidao 2+1"
+2021-10-17 00:21:12.393  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:vem fuder"
+2021-10-17 00:21:12.701  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: pivete cv set proibidao 2+1
+2021-10-17 00:21:13.437  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: vem fuder
+2021-10-17 00:21:21.983  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"852588889700696145"}
+2021-10-17 00:21:21.987  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA+AIAU1NFVCBQUk9JQklEw4NPIDIrMSAtIFPDkyBDT00gQVMgTUVMSE9SRVMgRE8gQ09NQU5ETyBWRVJNRUxITyDimaogWyBQSVZFVEUgQ1YgXSAySzIxABhQSVZFVEUgQ1YgLSBPIFJFVE9STk8gz58AAAAAACTN4AALdWJkUks0eC14d0UAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj11YmRSSzR4LXh3RQEAMGh0dHBzOi8vaS55dGltZy5jb20vdmkvdWJkUks0eC14d0Uvc2RkZWZhdWx0LmpwZwAHeW91dHViZQAAAAAAAAAA"}
+2021-10-17 00:21:23.574  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"852588889700696145"}
+2021-10-17 00:21:23.578  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA8AIAV1JBUEFaSUFESU5IQSBETyBUSUsgVE9LLCBWRU0gRlVERVIgLSBUSUsgVE9LIENIQUxMRU5HRSAtIE1DIEJydW55biwgREogWXVyaSBkYSBFc2PDs2NpYQAMRnVuayAyNHBvcjQ4AAAAAAAB9+gAC1JRV3VZNFhsdnlFAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UlFXdVk0WGx2eUUBADBodHRwczovL2kueXRpbWcuY29tL3ZpL1JRV3VZNFhsdnlFL2hxZGVmYXVsdC5qcGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2021-10-17 00:23:07.241  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:set proibidao 2+1 pivete cv"
+2021-10-17 00:23:07.957  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: set proibidao 2+1 pivete cv
+2021-10-17 00:23:13.049  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"852588889700696145"}
+2021-10-17 00:23:13.055  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA+AIAU1NFVCBQUk9JQklEw4NPIDIrMSAtIFPDkyBDT00gQVMgTUVMSE9SRVMgRE8gQ09NQU5ETyBWRVJNRUxITyDimaogWyBQSVZFVEUgQ1YgXSAySzIxABhQSVZFVEUgQ1YgLSBPIFJFVE9STk8gz58AAAAAACTN4AALdWJkUks0eC14d0UAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj11YmRSSzR4LXh3RQEAMGh0dHBzOi8vaS55dGltZy5jb20vdmkvdWJkUks0eC14d0Uvc2RkZWZhdWx0LmpwZwAHeW91dHViZQAAAAAAAAAA"}
+2021-10-17 00:24:55.035  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:rapaziadinha do facebook"
+2021-10-17 00:24:55.714  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: rapaziadinha do facebook
+2021-10-17 00:27:50.937  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55538 -- CloseStatus[code=1006, reason=]
+2021-10-17 00:27:50.938  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 1 playing players.
+2021-10-17 00:27:55.380  INFO 14720 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:64190
+2021-10-17 00:27:55.386  INFO 14720 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-10-17 00:28:46.329  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://www.youtube.com/watch?v=b9vIpu0kAbE"
+2021-10-17 00:28:46.646  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track Bleach - Opening 10 | Shojo S
+2021-10-17 00:28:46.660  INFO 14720 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"852588889700696145","volume":100}
+2021-10-17 00:28:46.662  INFO 14720 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAAwAIAHUJsZWFjaCAtIE9wZW5pbmcgMTAgfCBTaG9qbyBTABZDcnVuY2h5cm9sbCBDb2xsZWN0aW9uAAAAAAABhqAAC2I5dklwdTBrQWJFAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Yjl2SXB1MGtBYkUBADBodHRwczovL2kueXRpbWcuY29tL3ZpL2I5dklwdTBrQWJFL3NkZGVmYXVsdC5qcGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2021-10-17 00:28:47.302  INFO 14720 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"839d587d922332f8ffc46985b49c0fbe","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"3fddc27f45cd66c7","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:30:32.290  INFO 14720 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"destroy","guildId":"852588889700696145"}
+2021-10-17 00:31:09.343  INFO 14720 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:64190 -- CloseStatus[code=1006, reason=]
+2021-10-17 00:31:09.344  INFO 14720 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-10-17 00:31:13.964  INFO 14720 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:65162
+2021-10-17 00:31:13.968  INFO 14720 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-10-17 00:32:08.215  INFO 14720 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://www.youtube.com/watch?v=iA--AGm8mKo"
+2021-10-17 00:32:08.371  INFO 14720 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track Contando até 10 em Japonês - Sensei Altay Cabral
+2021-10-17 00:32:08.412  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"852588889700696145","volume":100}
+2021-10-17 00:32:08.414  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAAywIAMkNvbnRhbmRvIGF0w6kgMTAgZW0gSmFwb27DqnMgLSBTZW5zZWkgQWx0YXkgQ2FicmFsAAxBbHRheSBDYWJyYWwAAAAAAAD2GAALaUEtLUFHbThtS28AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1pQS0tQUdtOG1LbwEAMGh0dHBzOi8vaS55dGltZy5jb20vdmkvaUEtLUFHbThtS28vc2RkZWZhdWx0LmpwZwAHeW91dHViZQAAAAAAAAAA"}
+2021-10-17 00:32:09.040  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"7288992a9db8b9d0321c6b8167320488","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"0daadbee09a3c903","guild_id":"852588889700696145","endpoint":"brazil3442.discord.media:443"}}
+2021-10-17 00:38:12.016  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"op":"destroy","guildId":"852588889700696145"}
+2021-10-17 00:38:24.054  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:65162 -- CloseStatus[code=1006, reason=]
+2021-10-17 00:38:24.054  INFO 14720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-10-17 02:13:22.289  INFO 14720 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.2.9.Final
+2021-10-17 02:13:22.376  INFO 14720 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-10-17 02:13:22.466  INFO 14720 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2021-10-17 02:17:21.024  INFO 7816 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        df046f418b361af17e244536a670cc969eb60fba-SNAPSHOT
+	Build:          Unofficial
+	Build time:     16.08.2021 16:06:26 UTC
+	Branch:         dev
+	Commit:         df046f4
+	Commit time:    16.08.2021 16:00:50 UTC
+	Kotlin:         1.5.21
+	JVM:            17
+	Lavaplayer:     1.3.92
+
+2021-10-17 02:17:23.014  INFO 7816 --- [main] lavalink.server.Launcher                 : Starting Launcher using Java 17 on DESKTOP-VMMOQTA with PID 7816 (C:\Workspace\Discord\Projetos\pubMusic\lavaLink\Lavalink.jar started by Acer in C:\Workspace\Discord\Projetos\pubMusic\lavaLink)
+2021-10-17 02:17:23.015  INFO 7816 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2021-10-17 02:18:14.376  WARN 7816 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-10-17 02:18:15.163  INFO 7816 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-10-17 02:18:15.163  INFO 7816 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 49831 ms
+2021-10-17 02:18:23.493  INFO 7816 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2021-10-17 02:18:27.554  INFO 7816 --- [main] lavalink.server.config.KoeConfiguration  : OS: Windows 10, Arch: amd64
+2021-10-17 02:18:27.555  WARN 7816 --- [main] lavalink.server.config.KoeConfiguration  : This system and architecture appears to not support native audio sending! GC pauses may cause your bot to stutter during playback.
+2021-10-17 02:18:27.583  INFO 7816 --- [main] lavalink.server.config.KoeConfiguration  : Using the 'default' byte buf allocator
+2021-10-17 02:18:27.821  INFO 7816 --- [main] c.g.n.nativeloader.NativeLibLoader       : Native library timescale: loading with parts [Part{feature=X86.avx2, part=avx2}]
+2021-10-17 02:18:27.833  INFO 7816 --- [main] c.g.n.nativeloader.NativeLibLoader       : Native library detector: loading with parts []
+2021-10-17 02:18:27.872  INFO 7816 --- [main] c.g.n.nativeloader.NativeLibLoader       : Native library detector: successfully loaded.
+2021-10-17 02:18:27.971  INFO 7816 --- [main] c.g.n.nativeloader.NativeLibLoader       : Native library timescale: successfully loaded.
+2021-10-17 02:18:27.973  INFO 7816 --- [main] lavalink.server.io.SocketServer          : Timescale natives loaded successfully.
+2021-10-17 02:18:28.156  WARN 7816 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2021-10-17 02:18:46.905  INFO 7816 --- [main] io.undertow                              : starting server: Undertow - 2.2.9.Final
+2021-10-17 02:18:47.066  INFO 7816 --- [main] org.xnio                                 : XNIO version 3.8.4.Final
+2021-10-17 02:18:47.185  INFO 7816 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.4.Final
+2021-10-17 02:18:48.036  INFO 7816 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2021-10-17 02:18:48.445  INFO 7816 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2021-10-17 02:18:48.622  INFO 7816 --- [main] lavalink.server.Launcher                 : Started Launcher in 101.787 seconds (JVM running for 105.875)
+2021-10-17 02:20:02.631  INFO 7816 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-17 02:20:02.631  INFO 7816 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-10-17 02:20:02.634  INFO 7816 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-10-17 02:20:02.781  INFO 7816 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:63510
+2021-10-17 02:20:03.121  INFO 7816 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-10-17 02:20:05.771  WARN 7816 --- [pool-3-thread-1] o.u.p.windows.PerfCounterWildcardQuery   : Disabling further attempts to query Processor Information.
+2021-10-17 02:20:19.697  INFO 7816 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:alone"
+2021-10-17 02:20:25.205  INFO 7816 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: alone
+2021-10-17 02:20:25.566  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"852588889700696145","volume":100}
+2021-10-17 02:20:25.642  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAAwAIAKU1hcnNobWVsbG8gLSBBbG9uZSAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8pAApNYXJzaG1lbGxvAAAAAAADDUAAC0FMWkhGNVVxblU0AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QUxaSEY1VXFuVTQBADBodHRwczovL2kueXRpbWcuY29tL3ZpL0FMWkhGNVVxblU0L3NkZGVmYXVsdC5qcGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2021-10-17 02:20:26.625  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:63510 -- CloseStatus[code=1006, reason=]
+2021-10-17 02:20:26.627  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 1 playing players.
+2021-10-17 02:21:47.290  INFO 7816 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:63538
+2021-10-17 02:21:47.296  INFO 7816 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2021-10-17 02:22:00.963  INFO 7816 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:alone"
+2021-10-17 02:22:01.688  INFO 7816 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: alone
+2021-10-17 02:22:01.865  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"852588889700696145","volume":100}
+2021-10-17 02:22:01.868  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAAwAIAKU1hcnNobWVsbG8gLSBBbG9uZSAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8pAApNYXJzaG1lbGxvAAAAAAADDUAAC0FMWkhGNVVxblU0AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QUxaSEY1VXFuVTQBADBodHRwczovL2kueXRpbWcuY29tL3ZpL0FMWkhGNVVxblU0L3NkZGVmYXVsdC5qcGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2021-10-17 02:22:01.882  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"852588889700696145","pause":true}
+2021-10-17 02:22:02.456  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"a2de69c819651e2771561b687b08ef9d","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"f7751bc945aff95b","guild_id":"852588889700696145","endpoint":"brazil565.discord.media:443"}}
+2021-10-17 02:22:28.636  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"852588889700696145","pause":true}
+2021-10-17 02:22:33.761  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"852588889700696145","pause":false}
+2021-10-17 02:22:47.646  INFO 7816 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:alok"
+2021-10-17 02:22:48.350  INFO 7816 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: alok
+2021-10-17 02:22:51.650  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"852588889700696145"}
+2021-10-17 02:22:51.659  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAA4QIAOkFMT0sgTUlYIDIwMjEgLSBNRUxIT1JFUyBNw5pTSUNBUyBFTEVUUsOUTklDQVMgMjAyMSAtIEhhbGwAGkhhbGwgLSBNw7pzaWNhIEVsZXRyw7RuaWNhAAAAAAA948AACzJZUnhaOEtucW9FAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MllSeFo4S25xb0UBADBodHRwczovL2kueXRpbWcuY29tL3ZpLzJZUnhaOEtucW9FL3NkZGVmYXVsdC5qcGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2021-10-17 02:23:29.336  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"852588889700696145"}
+2021-10-17 02:23:40.842  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"a2de69c819651e2771561b687b08ef9d","op":"voiceUpdate","guildId":"852588889700696145","event":{"token":"f7751bc945aff95b","guild_id":"852588889700696145","endpoint":"brazil565.discord.media:443"}}
+2021-10-17 02:23:47.272  INFO 7816 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:alone"
+2021-10-17 02:23:47.985  INFO 7816 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: alone
+2021-10-17 02:23:48.095  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAAwAIAKU1hcnNobWVsbG8gLSBBbG9uZSAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8pAApNYXJzaG1lbGxvAAAAAAADDUAAC0FMWkhGNVVxblU0AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QUxaSEY1VXFuVTQBADBodHRwczovL2kueXRpbWcuY29tL3ZpL0FMWkhGNVVxblU0L3NkZGVmYXVsdC5qcGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2021-10-17 02:24:03.781  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"852588889700696145","pause":true}
+2021-10-17 02:24:07.885  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"852588889700696145","pause":false}
+2021-10-17 02:24:14.326  INFO 7816 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:alone"
+2021-10-17 02:24:15.174  INFO 7816 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: alone
+2021-10-17 02:24:24.818  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"852588889700696145"}
+2021-10-17 02:24:24.833  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"op":"play","guildId":"852588889700696145","track":"QAAAwAIAKU1hcnNobWVsbG8gLSBBbG9uZSAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8pAApNYXJzaG1lbGxvAAAAAAADDUAAC0FMWkhGNVVxblU0AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QUxaSEY1VXFuVTQBADBodHRwczovL2kueXRpbWcuY29tL3ZpL0FMWkhGNVVxblU0L3NkZGVmYXVsdC5qcGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2021-10-17 02:24:33.381  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:63538 -- CloseStatus[code=1006, reason=]
+2021-10-17 02:24:33.381  INFO 7816 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 1 playing players.
