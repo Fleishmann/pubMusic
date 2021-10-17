@@ -14,7 +14,6 @@ module.exports = class extends Event {
             const cmd = this.client.commands.find(c => c.name === interaction.commandName)
 
             if (cmd) {
-                
                 cmd.run(interaction)
             }
         }

@@ -18,6 +18,7 @@ module.exports = class extends Command {
 
         if (!player.paused) return interaction.reply({ content: 'A música não está pausada!', ephemeral: true })
 
+        player.connect()
         player.pause(false)
         interaction.reply({ content: 'Música resumida!' })
     }
